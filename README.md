@@ -4,9 +4,6 @@
 <br>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adityabhushan001/" target="_blank"><img align="center"
@@ -24,7 +21,9 @@
 
 <br>
 <br>
-My Portifolio Website: <a href="https://aditya-bhushan.netlify.app" target="_blank">here</a>
+<p>My Portifolio Website: 
+  <a href="#" onclick='window.open("https://aditya-bhushan.netlify.app");return false;'></a>
+  </p>
   <br>
 
 <h2 align="center">
