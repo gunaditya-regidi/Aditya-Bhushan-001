@@ -21,7 +21,7 @@
 
 </div>
 <br>
-<br>
+
 <p>My Portifolio Website: 
   <a href="https://aditya-bhushan.netlify.app" target="_blank">here</a>
   </p>
