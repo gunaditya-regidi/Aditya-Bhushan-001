@@ -10,13 +10,11 @@
   <a href="https://www.linkedin.com/in/adityabhushan001/" target="_blank"><img align="center"
       src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
       alt="Aditya LinkedIn Profile" height="30" width="40" /></a> 
-  </div>
-  <div class="col-sm-4">
+  
   <a href="https://www.instagram.com/me_the_aditya_bhushan/?hl=en" target="_blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
       alt="Aditya Insta Profile" height="30" width="40" /></a> 
-    </div>
-  <div class="col-sm-4">
+    
  <a href="https://twitter.com/meAditya001" target="_blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/124/124021.png"
       alt="Aditya Twitter Profile" height="30" width="40" /></a> 
