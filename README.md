@@ -14,7 +14,7 @@
       alt="Aditya LinkedIn Profile" height="30" width="40" /></a> 
    
   <a href="https://www.instagram.com/me_the_aditya_bhushan/?hl=en" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
       alt="Aditya Insta Profile" height="30" width="40" /></a> 
   
  <a href="https://twitter.com/meAditya001" target="_blank"><img align="center"
