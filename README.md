@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div class="row">
-<div class="col-sm-4">
+
   <a href="https://www.linkedin.com/in/adityabhushan001/" target="_blank"><img align="center"
       src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
       alt="Aditya LinkedIn Profile" height="30" width="40" /></a> 
@@ -18,7 +18,7 @@
  <a href="https://twitter.com/meAditya001" target="_blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/124/124021.png"
       alt="Aditya Twitter Profile" height="30" width="40" /></a> 
-</div>
+
 </div>
 <br>
 <br>
