@@ -5,6 +5,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<div class="row">
 <p align="left">
   <a href="https://www.linkedin.com/in/adityabhushan001/" target="_blank"><img align="center"
       src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
@@ -20,7 +21,7 @@
       src="https://cdn-icons-png.flaticon.com/512/124/124021.png"
       alt="Aditya Twitter Profile" height="30" width="40" /></a> 
 </p>
-
+</div>
 <br>
 <br>
 <p>My Portifolio Website: 
