@@ -18,7 +18,7 @@
       alt="Aditya Insta Profile" height="30" width="40" /></a> 
   
  <a href="https://twitter.com/meAditya001" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://cdn-icons-png.flaticon.com/512/124/124021.png"
       alt="Aditya Twitter Profile" height="30" width="40" /></a> 
 </p>
 
