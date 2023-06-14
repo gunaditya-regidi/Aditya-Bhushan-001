@@ -22,7 +22,7 @@
 <br>
 <br>
 <p>My Portifolio Website: 
-  <a href="#" onclick='window.open("https://aditya-bhushan.netlify.app");return false;'>here</a>
+  <a href="https://aditya-bhushan.netlify.app" target="_blank">here</a>
   </p>
   <br>
 
